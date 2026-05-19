@@ -35,7 +35,6 @@ I believe in understanding *why* things work before reaching for the library —
 
 
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 
